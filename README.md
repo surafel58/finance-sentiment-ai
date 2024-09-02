@@ -51,6 +51,7 @@ Ensure you have the following installed:
    ```bash
    pip install -r requirements.txt
    ```
+But install TA-Lib separately it is removed from reuqieremnts.txt, because it requires further step.
 
 ### Running the Project
 
